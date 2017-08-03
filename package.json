@@ -1,0 +1,28 @@
+{
+    "name": "height-binder",
+    "version": "1.0.0",
+    "description": "Javascript module for binding the height of grouped HTML elements",
+    "main": "index.js",
+    "dependencies": {
+        "jquery": "^3.0.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MatthiasKunnen/height-binder.git"
+    },
+    "keywords": [
+        "Javascript",
+        "height",
+        "binding",
+        "module"
+    ],
+    "author": "Matthias Kunnen",
+    "license": "UNLICENSED",
+    "bugs": {
+        "url": "https://github.com/MatthiasKunnen/height-binder/issues"
+    },
+    "homepage": "https://github.com/MatthiasKunnen/height-binder#readme"
+}
